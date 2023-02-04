@@ -1,0 +1,51 @@
+.kam{
+    text-align: center;
+    margin-top: 170px;
+}
+.ral input{
+    border-radius: 20px;
+    height: 30px;
+    width: 400px;
+    text-align: center;
+    background-color: transparent;
+}
+.ral{
+    text-align: center;
+    margin-top: 100px;
+}
+.ral ::placeholder{
+  margin-left: 150px;
+}
+.name img{
+    width: 20px;
+    margin-left: 440px;
+    padding-bottom: 40px;
+}
+.ral img{
+    width: 20px;
+    margin-right: -35px;
+    margin-bottom: -8px;
+}
+.lk{
+    margin-top: -28px;
+    margin-left: 270px;
+}
+.head img{
+    width: 50px;
+}
+.head p{
+    margin-top: -5px;
+}
+.awais img{
+    width: 50px;
+    margin-left: 20px;
+}
+.awais p{
+    margin-top: -5px;
+    margin-left: 20px;
+}
+.khan{
+    display: flex;
+    margin-left: 550px;
+    margin-top: 60px;
+}
